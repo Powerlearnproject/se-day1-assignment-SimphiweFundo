@@ -3,7 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
+c
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is used to build to software systems for computers and cellphones and web development. It ensures that effectiveness in which ever industry it's introduced. With a system in place it ensures software quality and reliability
 Identify and describe at least three key milestones in the evolution of software engineering.
